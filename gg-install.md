@@ -7,3 +7,7 @@ First step, download the GameGuardian mod, by clicking Download.
 <a href="https://github.com/ruihq/gg-rui/releases/download/gg-mod/base.apk">Download</a>
 
 After downloading you would see this App in your Download List
+
+<img src="/images/ggInstall.jpg">
+
+Install and enjoy!
